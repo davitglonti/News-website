@@ -1,0 +1,14 @@
+.answers{
+    display: grid;
+    grid-template-columns: auto auto ;
+    justify-content: center;
+}
+.Quizimage{
+
+margin-left: 42%;
+}
+
+.GAMEOVER{
+    width: 100%;
+    height: 100vh;
+}

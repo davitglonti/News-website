@@ -1,0 +1,24 @@
+ .navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  .navlinks{
+    background-color: rgb(116, 74, 74);
+    height: 30px;
+  }
+.Link {
+    text-decoration: none;
+    color: rgb(9, 255, 0);
+}
+.Link:hover{
+    color: aliceblue;
+}
+.logo{
+    margin-left: 30px;
+    width: auto;
+    height: 200px;
+}
+@media only screen and (max-width: 800px) {
+   
+  }

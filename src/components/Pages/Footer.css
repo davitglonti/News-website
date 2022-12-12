@@ -1,0 +1,28 @@
+.Footer{
+    position: relative;
+    height: 50vh;
+    background: rgb(2,0,36);
+    background: linear-gradient( #16222a  #3a6073);
+    color: white;
+    top: 20px;
+    bottom: 0px;
+
+}
+
+.FooterList{
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+   
+}
+.footerLogo{
+    width: 100px;
+    position: relative;
+    left: 45%;
+    color: rgb(233, 176, 176);
+}
+ .Footer li{
+    list-style-type: none; 
+    margin: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
